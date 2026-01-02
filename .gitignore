@@ -1,0 +1,14 @@
+# ⒸAngelaMos | 2026 | CarterPerez-dev
+# Binaries
+*.exe
+*.test
+bin/
+
+# OS stuff
+.DS_Store
+
+# IDE stuff
+.vscode/
+.idea/
+
+# DO NOT IGNORE go.sum OR go.mod

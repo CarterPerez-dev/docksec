@@ -1,2 +1,3 @@
-Docker security audit tool made with go - NOTE: This project actually lives in CarterPerez-dev/Cybersecurity-Projects/ but real releases, tags, go install, binaries  liev here
-# docksec
+## Docker security audit tool made with Go
+---
+NOTE: *This project actually lives in CarterPerez-dev/Cybersecurity-Projects/PROJECTS/docker-security-audit, but real releases, tags, go install, binaries live here*
